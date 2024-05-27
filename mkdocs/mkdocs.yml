@@ -1,4 +1,4 @@
-site_name: 24i CloudOps Docs
+site_name: myzone
 nav:
 - 'Home':
     - 'About': 'home/index.md'
